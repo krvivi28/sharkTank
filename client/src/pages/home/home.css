@@ -1,0 +1,19 @@
+.comm
+{
+    font-size: 22px !important;
+}
+#head
+{
+    font-size: 80px !important;
+}
+#h2
+{
+    font-size: 50px !important;
+}
+#homecard
+{
+    padding: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
